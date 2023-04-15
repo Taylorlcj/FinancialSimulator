@@ -1,2 +1,2 @@
-# FinancialSimulator
-ERAU SE 300 Team Project
+# Financial Aid Simulator
+Financial Literacy Simulator
