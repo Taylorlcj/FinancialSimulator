@@ -1,4 +1,4 @@
 # Financial Aid Simulator
-Financial Literacy Simulator
+Financial Literacy Simulator that was part of my Sophomore Software Engineering Class
 
-A python desktop app designed and created using the Tkinter library
+A Python desktop app designed and created using the Tkinter library
